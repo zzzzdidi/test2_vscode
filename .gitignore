@@ -1,0 +1,16 @@
+# Keil输出文件
+*.o
+*.axf
+*.hex
+*.bin
+*.lst
+*.map
+*.d
+
+# 临时文件
+*.bak
+*.tmp
+
+# 项目配置
+*.uvopt
+*.uvproj
